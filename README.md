@@ -1,32 +1,25 @@
 # Grack编辑器
 
 #### 介绍
-Grack编辑器-一款图形化HTML编辑器
+Grack编辑器 —— 一款图形化网站制作工具
 
 #### 软件架构
 软件架构说明
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  暂无。
 
 #### 参与贡献
 
 1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
+2.  新建 New-xx 分支
 3.  提交代码
-4.  新建 Pull Request
+4.  新建 PR
 
 
-#### 特技
+#### 加入我们
+
+点击此链接加入我们👉www.craftwe.cn/join
 
 
